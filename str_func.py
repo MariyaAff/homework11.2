@@ -1,4 +1,5 @@
 """Функция, возвращающая строку заглавными буквами"""
+<<<<<<< HEAD
 
 
 def func(value: str):
@@ -10,3 +11,7 @@ def func(value: str):
 
 def func_new(value_new: str):
     return value_new.title()
+=======
+def func(value: str):
+    return value.upper()
+>>>>>>> develop
